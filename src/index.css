@@ -21,7 +21,7 @@
   --color-white: #fff;
   --color-light: (255, 255, 255, 0.6);
 
-  transition: all 400ms ease;
+  --transition: all 400ms ease;
 
   --container-width-lg: 75%;
   --container-width-md: 86%;
@@ -61,8 +61,7 @@ h1 {
   font-size: 2.5rem;
 }
 section {
-  margin-bottom: 8rem;
-  height: 100vh;
+  margin-top: 8rem;
 }
 section > h2,
 section > h5 {
