@@ -10,7 +10,7 @@ import avatar3 from "../../assets/avatar3.jpg";
 import avatar4 from "../../assets/avatar4.jpg";
 
 const Testimonials = () => {
-  // fake data do not use production
+  // fake data
   const data = [
     {
       id: 1,
